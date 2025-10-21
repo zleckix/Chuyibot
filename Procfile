@@ -1,1 +1,1 @@
-Python Chuyibot.py
+Python ChuyiBot.py
